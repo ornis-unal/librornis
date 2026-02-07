@@ -8,7 +8,7 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
 ## 11 de febrero 2026
-La próxia discusión se centrará sobre la naturaleza y la filosofía de la especie, y más allá de eso, será acerca del *"species problem"* 
+La próxima discusión se centrará sobre la naturaleza y la filosofía de la especie, y más allá de eso, será acerca del *"species problem"* 
 
 Para la discusión lee el **prefacio** y el **capítulo 1** de alguno de los siguientes tres libros, cualquiera de ellos (o todos). La idea es nutrirnos de diferentes perspectivas que abordan esta idea y conversar sobre ello. 
 
