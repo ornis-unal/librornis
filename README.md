@@ -7,6 +7,18 @@ La naturaleza de las especies y el proceso de especiación (Grupo de lectura 202
 ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
+## 11 de febrero 2026
+* La discusión se centrará acerca de la naturaleza y la filosofía de la especie, y más allá de eso, será acerca del *"species problem"* 
+
+Para la discusión lee el **prefacio** y el **capítulo 1** de alguno de los siguientes tres libros, cualquiera de ellos (o todos). La idea es nutrirnos de diferentes perspectivas que abordan esta idea y conversar sobre ello. 
+
+* Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH. (Página 5 a 44)
+* Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press. (Página 1 a 16)
+* Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press  (Página 1 a 21).
+
+
+
+---
 Referencias bibliográficas a considerar:
 
 ## Artículos
