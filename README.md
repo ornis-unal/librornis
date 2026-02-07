@@ -1,4 +1,4 @@
-# Cronograma club de lectura Librornis 2020
+# Grupo de lectura LibrOrnis 2026-1
 Libro: Speciation in Birds. Trevor D. Price (2008)
 Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capítulos a la vez
 Lunes 4:00-6:00 PM (Hora de Colombia)
