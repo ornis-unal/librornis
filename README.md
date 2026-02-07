@@ -1,7 +1,5 @@
 # Grupo de lectura LibrOrnis 2026-1
-Libro: Speciation in Birds. Trevor D. Price (2008)
-Reunión virtual quincenal para leer, disectar y discutir ideas sobre dos capítulos a la vez
-Lunes 4:00-6:00 PM (Hora de Colombia)
+Grupo de lectura sobre la naturaleza de las especies y el proceso de especiación (semestre 2026-1). Referencias bibliográficas y cronograma de discusión organizado por el grupo de investigación ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia.
 
 ### Capítulos
 
