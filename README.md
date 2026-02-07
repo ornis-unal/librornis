@@ -12,11 +12,9 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 
 Para la discusión lee el **prefacio** y el **capítulo 1** de alguno de los siguientes tres libros, cualquiera de ellos (o todos). La idea es nutrirnos de diferentes perspectivas que abordan esta idea y conversar sobre ello. 
 
-* Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH. (Página 5 a 44)
-* Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press. (Página 1 a 16)
-* Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press  (Página 1 a 21).
-
-
+* Kunz, W. (2012). Do species exist?: Principles of taxonomic classification. Wiley-VCH. (Página 5 a 44) [PDF](Kunz_Do%20Species%20Exist_Principles%20of%20Taxonomic%20Classification_2012.pdf)
+* Richards, R. A. (2010). The species problem: A philosophical analysis. Cambridge University Press. (Página 1 a 16) [PDF](Richards_the%20species%20problem.pdf)
+* Stamos, D. N. (2007). Darwin and the nature of species. State University of New York Press (Página 1 a 21) [PDF](Stamos_Darwin%20and%20the%20Nature%20of%20Species.pdf)
 
 ---
 Referencias bibliográficas a considerar:
