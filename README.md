@@ -1,50 +1,60 @@
 # Grupo de lectura LibrOrnis 2026-1
 Grupo de lectura sobre la naturaleza de las especies y el proceso de especiación (semestre 2026-1). Referencias bibliográficas y cronograma de discusión organizado por el grupo de investigación ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia.
 
-### Capítulos
+---
+La naturaleza de las especies y el proceso de especiación (Grupo de lectura 2026-1)
+---
+ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
+---
 
-### Lunes 29 junio
-* Cap 1. Introduction
+Referencias bibliográficas a considerar:
 
-### Lunes 13 julio 
-* Cap 2. Geography and Ecology
-* Cap 3. Geographical variation\
-(Lideran: Natalia Pérez y Juliana Soto)
+## Artículos
 
-### Lunes 27 julio
-* Cap 4. Parapatric speciation
-* Cap 5. Ecological speciation\
-(Lideran: Natalia Trujillo-Arias y Jórge Pérez-Emán)
+**Revisiones generales**
+* Matute, D. R., & Cooper, B. S. (2021). Comparative studies on speciation: 30 years since Coyne and Orr. *Evolution*, 75(4), 764–778. https://doi.org/10.1111/evo.14181
+* Peichel, C. L., Bolnick, D. I., Brännström, Å., Dieckmann, U., & Safran, R. J. (2025). Speciation. *Cold Spring Harbor Perspectives in Biology*, 17(3), a041735. https://doi.org/10.1101/cshperspect.a041735
+* Pyron, R. A., Zhang, L., Smith, B. T., DeBaun, D., & Burbrink, F. T. (2026). The species problem evolving in the Anthropocene. *Nature Reviews Biodiversity*, 2, 40–55. https://doi.org/10.1038/s44358-025-00125-x
+* Sobel, J. M., Chen, G. F., Watt, L. R., & Schemske, D. W. (2010). The biology of speciation. *Evolution*, 64(2), 295–315. https://doi.org/10.1111/j.1558-5646.2009.00877.x
+* Wiens, J. J. (2024). Speciation across life and the origins of biodiversity patterns. *Evolutionary Journal of the Linnean Society*, 3(1), kzae025. https://doi.org/10.1093/evolinnean/kzae025
 
-### Lunes 10 agosto
-No hay sesión. Semana del VII NAOC
+**Conceptos de especie**
+* de Queiroz, K. (2007). Species concepts and species delimitation. *Systematic Biology*, 56(6), 879–886. https://doi.org/10.1080/10635150701701083
 
-### Lunes 24 agosto
-* Cap 6. Ecological controls and speciation on continents (Lidera: Paola Montoya)
-* Cap 7. Behavior and ecology (Lidera: )
+**Especiación ecológica**
+* Funk, D. J., Nosil, P., & Etges, W. J. (2006). Ecological divergence exhibits consistently positive associations with reproductive isolation across disparate taxa. *Proceedings of the National Academy of Sciences USA*, 103(9), 3209–3213. https://doi.org/10.1073/pnas.0508653103
+* Rundle, H. D., & Nosil, P. (2005). Ecological speciation. *Ecology Letters*, 8(3), 336–352. https://doi.org/10.1111/j.1461-0248.2004.00715.x
 
-### Lunes 7 septiembre
-* Cap 8. Geographical isolation and the causes of island endemism (Lidera: David Ocampo)
-* Cap 9. Social Selection (Lidera: )
+**Aislamiento reproductivo**
+* Coyne, J. A., & Orr, H. A. (1989). Patterns of speciation in *Drosophila*. *Evolution*, 43(2), 362–381. https://doi.org/10.1111/j.1558-5646.1989.tb04233.x
 
-### Lunes 21 septiembre
-* Cap 10. Social selection and the evolution of song
-* Cap 11. Divergence in response to increased sexual selection\
-(Lideran: Nelsy Niño y Jorge E. Avendaño)
 
-### Lunes 5 octubre
-* Cap 12. Social selection and ecology
-* Cap 13. Species recognition\
-(Lideran: Jenny Muñoz y Andrés F. Sierra Ricaurte)
+## Libros
 
-### Lunes 26 octubre
-* Cap 14. Mate choice at the end of speciation (Lidera: )
-* Cap 15. Hybrid zones (Lidera: Paola Pulido-Santacruz)
+**Textos clásicos**
+* Dobzhansky, T. (1951). *Genetics and the origin of species* (3rd ed.). Columbia University Press.
+* Mayr, E. (1942). *Systematics and the origin of species*. Columbia University Press.
 
-### Lunes 9 noviembre
-* Cap 16. Genetic incompatibility (Lidera: Sebastián Tabares)
-* Cap 17. Conclusions
+**Textos fundamentales modernos**
+* Butlin, R., Bridle, J., & Schluter, D. (Eds.). (2012). *Speciation and patterns of diversity*. Cambridge University Press. https://doi.org/10.1017/CBO9780511815683
+* Coyne, J. A., & Orr, H. A. (2004). *Speciation*. Sinauer Associates.
+* Harrison, R. G. (Ed.). (1993). *Hybrid zones and the evolutionary process*. Oxford University Press.
+* Hey, J., Fitch, W. M., & Ayala, F. J. (Eds.). (2005). *Systematics and the origin of species: On Ernst Mayr's 100th anniversary*. National Academies Press. https://doi.org/10.17226/11310
+* Otte, D., & Endler, J. A. (Eds.). (1989). *Speciation and its consequences*. Sinauer Associates.
+* Wheeler, Q. D., & Meier, R. (Eds.). (2000). *Species concepts and phylogenetic theory: A debate*. Columbia University Press.
 
-### fecha por definir
-* Charla y discusión con Trevor Price
+**Filosofía de la especie**
+* Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH.
+* Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press.
+* Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press.
 
+**Estudios de caso - Aves**
+* Grant, P. R., & Grant, B. R. (2008). *How and why species multiply: The radiation of Darwin's finches*. Princeton University Press.
+* Price, T. (2008). *Speciation in birds*. Roberts and Company.
+* Tietze, D. T. (Ed.). (2018). *Bird species: How they arise, modify and vanish*. Springer. https://doi.org/10.1007/978-3-319-91689-7
+
+---
+
+## Temas de lectura anteriores
+
+* [Club de Lectura 2020 - Trevor Price: Speciation in Birds](grupolectura-2020.md)
