@@ -1,5 +1,5 @@
 # Grupo de lectura LibrOrnis 2026-1
-Grupo de lectura sobre la naturaleza de las especies y el proceso de especiación (semestre 2026-1). Referencias bibliográficas y cronograma de discusión organizado por el grupo de investigación ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia.
+Grupo de lectura sobre la naturaleza de las especies y el proceso de especiación (semestre 2026-1). Referencias bibliográficas y cronograma de discusión organizado por el grupo de investigación ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia. Todos los miércoles a las 14:30 (ICN-101)
 
 ---
 La naturaleza de las especies y el proceso de especiación (Grupo de lectura 2026-1)
@@ -8,7 +8,7 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
 ---
-## Próxima sesión: Martes 18 de febrero 2026
+## Próxima sesión: Miércoles 18 de febrero 2026
 
 **Tema:** El problema de las especies (*species problem*)
 
