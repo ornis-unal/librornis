@@ -8,13 +8,13 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
 ---
-## 📢 Próxima sesión: Martes 18 de febrero 2026
+## Próxima sesión: Martes 18 de febrero 2026
 
 **Tema:** El problema de las especies (*species problem*)
 
 **Lectura:** Capítulo 3 de Wilkins et al. (2022) - *'Species' as a Technical Term: Multiple Meanings in Practice, One Idea in Theory* (páginas 65-90)
 
-📥 **Descarga:** [[PDF completo]](https://www.dropbox.com/scl/fi/tug0kb47grqvjbis2vn9h/Wilkins_Zachos_Pavlinov_Species_Problems_Beyond_2022.pdf?rlkey=tggjoeb6il81d3px3e2gd17p1&dl=0)
+**Descarga:** [[PDF completo]](https://www.dropbox.com/scl/fi/tug0kb47grqvjbis2vn9h/Wilkins_Zachos_Pavlinov_Species_Problems_Beyond_2022.pdf?rlkey=tggjoeb6il81d3px3e2gd17p1&dl=0)
 
 **Referencia:** Wilkins, J. S., Zachos, F. E., & Pavlinov, I. Y. (Eds.). (2022). *Species problems and beyond: Contemporary issues in philosophy and practice*. CRC Press. [[DOI]](https://doi.org/10.1201/9780367855604)
 
@@ -70,7 +70,7 @@ Referencias bibliográficas a considerar:
 * Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press.
 * Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press.
 * Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH.
-* Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer.
+* Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer. [[PDF]](http://ndl.ethernet.edu.et/bitstream/123456789/43480/1/Frank%20E.%20Zachos.pdf)
 * Pavlinov, I. Y. (2023). *The species problem: A conceptual history*. CRC Press. https://doi.org/10.1201/9781003346296
 * Wilkins, J. S., Zachos, F. E., & Pavlinov, I. Y. (Eds.). (2022). *Species problems and beyond: Contemporary issues in philosophy and practice*. CRC Press. [[DOI]](https://doi.org/10.1201/9780367855604) [[PDF]](https://www.dropbox.com/scl/fi/tug0kb47grqvjbis2vn9h/Wilkins_Zachos_Pavlinov_Species_Problems_Beyond_2022.pdf?rlkey=tggjoeb6il81d3px3e2gd17p1&dl=0)
 
