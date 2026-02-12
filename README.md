@@ -7,10 +7,16 @@ La naturaleza de las especies y el proceso de especiación (Grupo de lectura 202
 ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
-## 11 de febrero 2026
-La próxima discusión se centrará sobre la naturaleza y la filosofía de la especie, y más allá de eso, será acerca del *"species problem"* 
+## 18 de febrero 2026
+Continuaremos leyendo sobre el *"species problem"* 
 
-Para la discusión lee el **prefacio** y el **capítulo 1** de alguno de los siguientes tres libros, cualquiera de ellos (o todos). La idea es nutrirnos de diferentes perspectivas que abordan esta idea y conversar sobre ello. 
+
+---
+
+## 11 de febrero 2026
+La discusión se centró sobre la naturaleza y la filosofía de la especie, y más allá de eso, acerca del *"species problem"* 
+
+Para la discusión leimos el **prefacio** y el **capítulo 1** de alguno de los siguientes tres libros, cualquiera de ellos (o todos). La idea fue nutrirnos de diferentes perspectivas que abordan esta idea, desde lo filosófico y lo histórico, y conversar sobre ello.
 
 * Kunz, W. (2012). Do species exist?: Principles of taxonomic classification. Wiley-VCH. (Página 5 a 44) [PDF](Kunz_Do%20Species%20Exist_Principles%20of%20Taxonomic%20Classification_2012.pdf)
 * Richards, R. A. (2010). The species problem: A philosophical analysis. Cambridge University Press. (Página 1 a 16) [PDF](Richards_the%20species%20problem.pdf)
@@ -54,10 +60,14 @@ Referencias bibliográficas a considerar:
 * Wheeler, Q. D., & Meier, R. (Eds.). (2000). *Species concepts and phylogenetic theory: A debate*. Columbia University Press.
 
 **Filosofía de la especie**
-* Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH.
-* Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press.
 * Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press.
+* Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press.
+* Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH.
+* Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer.
+* Pavlinov, I. Y. (2023). *The species problem: A conceptual history*. CRC Press. https://doi.org/10.1201/9781003346296
+* Wilkins, J. S., Zachos, F. E., & Pavlinov, I. Y. (Eds.). (2022). *Species problems and beyond: Contemporary issues in philosophy and practice*. CRC Press. https://doi.org/10.1201/9780367855604 [PDF](Wilkins_Zachos_Pavlinov_Species_Problems_Beyond_2022.pdf)
 
+ 
 **Estudios de caso - Aves**
 * Grant, P. R., & Grant, B. R. (2008). *How and why species multiply: The radiation of Darwin's finches*. Princeton University Press.
 * Price, T. (2008). *Speciation in birds*. Roberts and Company.
