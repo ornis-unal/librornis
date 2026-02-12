@@ -43,7 +43,8 @@ Referencias bibliográficas a considerar:
 
 **Conceptos de especie**
 * de Queiroz, K. (2007). Species concepts and species delimitation. *Systematic Biology*, 56(6), 879–886. https://doi.org/10.1080/10635150701701083
-
+* Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer. [[PDF]](http://ndl.ethernet.edu.et/bitstream/123456789/43480/1/Frank%20E.%20Zachos.pdf)
+    
 **Especiación ecológica**
 * Funk, D. J., Nosil, P., & Etges, W. J. (2006). Ecological divergence exhibits consistently positive associations with reproductive isolation across disparate taxa. *Proceedings of the National Academy of Sciences USA*, 103(9), 3209–3213. https://doi.org/10.1073/pnas.0508653103
 * Rundle, H. D., & Nosil, P. (2005). Ecological speciation. *Ecology Letters*, 8(3), 336–352. https://doi.org/10.1111/j.1461-0248.2004.00715.x
@@ -70,7 +71,6 @@ Referencias bibliográficas a considerar:
 * Stamos, D. N. (2007). *Darwin and the nature of species*. State University of New York Press.
 * Richards, R. A. (2010). *The species problem: A philosophical analysis*. Cambridge University Press.
 * Kunz, W. (2012). *Do species exist?: Principles of taxonomic classification*. Wiley-VCH.
-* Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer. [[PDF]](http://ndl.ethernet.edu.et/bitstream/123456789/43480/1/Frank%20E.%20Zachos.pdf)
 * Pavlinov, I. Y. (2023). *The species problem: A conceptual history*. CRC Press. https://doi.org/10.1201/9781003346296
 * Wilkins, J. S., Zachos, F. E., & Pavlinov, I. Y. (Eds.). (2022). *Species problems and beyond: Contemporary issues in philosophy and practice*. CRC Press. [[DOI]](https://doi.org/10.1201/9780367855604) [[PDF]](https://www.dropbox.com/scl/fi/tug0kb47grqvjbis2vn9h/Wilkins_Zachos_Pavlinov_Species_Problems_Beyond_2022.pdf?rlkey=tggjoeb6il81d3px3e2gd17p1&dl=0)
 
