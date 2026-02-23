@@ -12,13 +12,12 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 
 **Tema:** Ernst Mayr (1942): El concepto biológico de especie
 
-**Lectura principal:** Capítulo V (p. 102) - *The Systematic Categories and the New Species Concept*
+**Lectura principal:** Capítulo V (p. 102), titulado *The Systematic Categories and the New Species Concept*
+* del libro Mayr, E. (1942). *Systematics and the origin of species*. Columbia University Press. [[PDF]](https://ia801404.us.archive.org/13/items/in.ernet.dli.2015.20284/2015.20284.Systematics-And-The-Origin-Of-Species.pdf)
 
 **Lectura complementaria:**: de Queiroz, K. (2005). Ernst Mayr and the modern concept of species. *Proceedings of the National Academy of Sciences*, 102(Suppl. 1), 6600–6607. https://doi.org/10.1073/pnas.0502030102
 
 **Lectura opcional:** Capítulo IV (p. 71) - *Some Aspects of Geographic Variation*
-
-**Referencia:** Mayr, E. (1942). *Systematics and the origin of species from the viewpoint of a zoologist*. Columbia University Press. [[PDF]](https://ia801404.us.archive.org/13/items/in.ernet.dli.2015.20284/2015.20284.Systematics-And-The-Origin-Of-Species.pdf)
 
 ---
 
