@@ -8,7 +8,18 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 ---
 
 ---
-## Próxima sesión: Miércoles 18 de febrero 2026
+## Lectura para este Miércoles 25 de febrero 2026
+
+**Tema:** Ernst Mayr (1942): El concepto biológico de especie
+
+**Lectura principal:** Capítulo V (p. 102) - *The Systematic Categories and the New Species Concept*
+**Lectura opcional:** Capítulo IV (p. 71) - *Some Aspects of Geographic Variation*
+
+**Referencia:** Mayr, E. (1942). *Systematics and the origin of species from the viewpoint of a zoologist*. Columbia University Press. [[PDF]](https://ia801404.us.archive.org/13/items/in.ernet.dli.2015.20284/2015.20284.Systematics-And-The-Origin-Of-Species.pdf)
+
+---
+
+## Miércoles 18 de febrero 2026
 
 **Tema:** El problema de las especies (*species problem*)
 
@@ -57,7 +68,7 @@ Referencias bibliográficas a considerar:
 
 **Textos clásicos**
 * Dobzhansky, T. (1951). *Genetics and the origin of species* (3rd ed.). Columbia University Press.
-* Mayr, E. (1942). *Systematics and the origin of species*. Columbia University Press.
+* Mayr, E. (1942). *Systematics and the origin of species*. Columbia University Press. [[PDF]](https://ia801404.us.archive.org/13/items/in.ernet.dli.2015.20284/2015.20284.Systematics-And-The-Origin-Of-Species.pdf)
 
 **Textos fundamentales modernos**
 * Butlin, R., Bridle, J., & Schluter, D. (Eds.). (2012). *Speciation and patterns of diversity*. Cambridge University Press. https://doi.org/10.1017/CBO9780511815683
