@@ -13,6 +13,9 @@ ORNIS: Evolución y Ecología de Aves, Universidad Nacional de Colombia
 **Tema:** Ernst Mayr (1942): El concepto biológico de especie
 
 **Lectura principal:** Capítulo V (p. 102) - *The Systematic Categories and the New Species Concept*
+
+**Lectura complementaria:**: de Queiroz, K. (2005). Ernst Mayr and the modern concept of species. *Proceedings of the National Academy of Sciences*, 102(Suppl. 1), 6600–6607. https://doi.org/10.1073/pnas.0502030102
+
 **Lectura opcional:** Capítulo IV (p. 71) - *Some Aspects of Geographic Variation*
 
 **Referencia:** Mayr, E. (1942). *Systematics and the origin of species from the viewpoint of a zoologist*. Columbia University Press. [[PDF]](https://ia801404.us.archive.org/13/items/in.ernet.dli.2015.20284/2015.20284.Systematics-And-The-Origin-Of-Species.pdf)
@@ -55,6 +58,7 @@ Referencias bibliográficas a considerar:
 **Conceptos de especie**
 * de Queiroz, K. (2007). Species concepts and species delimitation. *Systematic Biology*, 56(6), 879–886. https://doi.org/10.1080/10635150701701083
 * Zachos, F. E. (2016). *Species concepts in biology: Historical development, theoretical foundations and practical relevance*. Springer. [[PDF]](http://ndl.ethernet.edu.et/bitstream/123456789/43480/1/Frank%20E.%20Zachos.pdf)
+* de Queiroz, K. (2005). Ernst Mayr and the modern concept of species. *Proceedings of the National Academy of Sciences*, 102(Suppl. 1), 6600–6607. https://doi.org/10.1073/pnas.0502030102
     
 **Especiación ecológica**
 * Funk, D. J., Nosil, P., & Etges, W. J. (2006). Ecological divergence exhibits consistently positive associations with reproductive isolation across disparate taxa. *Proceedings of the National Academy of Sciences USA*, 103(9), 3209–3213. https://doi.org/10.1073/pnas.0508653103
